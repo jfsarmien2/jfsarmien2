@@ -6,13 +6,6 @@ Welcome to my GitHub profile! I have 3 years of experience in web development us
 
 ---
 
-🛠️ Tools I use:
-
-- VS Code
-- Postman
-
----
-
 ## 💼 My Skills & Technologies
 
 ### Language and Frameworks:
@@ -20,6 +13,11 @@ Welcome to my GitHub profile! I have 3 years of experience in web development us
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%23000.svg?style=flat&logo=react&logoColor=61DAFB)
+
+🛠️ Tools I use:
+
+- VS Code
+- Postman
 
 ---
 
