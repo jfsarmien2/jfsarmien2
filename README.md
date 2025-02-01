@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm John Sarmiento 👋
 
-<!--
-**jfsarmien2/jfsarmien2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I have 3 years of experience in web development using technologies like React.js and TypeScript. I always challenge myself to learn new skills in order to expand my skill set and help me stay ahead in my career in the future. Outside of work, I enjoy playing mobile games and watching anime.
 
-Here are some ideas to get you started:
+![Profile Image](https://avatars.githubusercontent.com/u/83935828?v=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🛠️ Tools I use:
+
+- VS Code
+- Postman
+
+---
+
+## 💼 My Skills & Technologies
+
+### Language and Frameworks:
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%23000.svg?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+## 📚 Learning & Growth
+
+I'm always striving to improve my skills. Here are the things I’m currently diving deeper into:
+
+- 🐍 Python & Backend Development
+- 🛠️ Full-Stack Development
+- 💡 Problem-Solving and Algorithms
+
+---
+
+## 📞 Get in Touch
+
+Feel free to reach out for collaborations or just a friendly chat! Here’s how you can contact me:
+
+- 📧 Email: [john.sarmiento452@gmail.com](mailto:john.sarmiento452@gmail.com)
+- 🔗 LinkedIn: [John Sarmiento](https://www.linkedin.com/in/john-sarmiento-192476345/)
+
+---
+
+Thank you for visiting my profile! 😄
+
+---
