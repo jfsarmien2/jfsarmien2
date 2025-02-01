@@ -1,8 +1,10 @@
 # Hi there, I'm John Sarmiento 👋
 
+## About Me
+
 Welcome to my GitHub profile! I have 3 years of experience in web development using technologies like React.js and TypeScript. I always challenge myself to learn new skills in order to expand my skill set and help me stay ahead in my career in the future. Outside of work, I enjoy playing mobile games and watching anime.
 
-## About Me
+---
 
 🛠️ Tools I use:
 
