@@ -36,7 +36,7 @@ I'm always striving to improve my skills. Here are the things I’m currently di
 Feel free to reach out for collaborations or just a friendly chat! Here’s how you can contact me:
 
 - 📧 Email: [john.sarmiento452@gmail.com](mailto:john.sarmiento452@gmail.com)
-- 🔗 LinkedIn: [John Sarmiento](https://www.linkedin.com/in/john-sarmiento-192476345/)
+- 🔗 LinkedIn: [in/john-sarmiento](https://www.linkedin.com/in/john-sarmiento-192476345/)
 
 ---
 
