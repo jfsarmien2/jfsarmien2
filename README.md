@@ -21,16 +21,6 @@ Welcome to my GitHub profile! I have 3 years of experience in web development us
 
 ---
 
-## 📚 Learning & Growth
-
-I'm always striving to improve my skills. Here are the things I’m currently diving deeper into:
-
-- 🐍 Python & Backend Development
-- 🛠️ Full-Stack Development
-- 💡 Problem-Solving and Algorithms
-
----
-
 ## 📞 Get in Touch
 
 Feel free to reach out for collaborations or just a friendly chat! Here’s how you can contact me:
